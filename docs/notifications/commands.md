@@ -22,7 +22,7 @@ The Companion apps offer a lot of different notification options. In place of po
 | `command_activity` | Launch an activity with a specified URI to any app, [more details](#activity) and use cases below. |
 | `command_app_lock` | Change the companion app lock settings, [more details](#app-lock) and use cases below. |
 | `command_auto_screen_brightness` | Control if automatic screen brightness is enabled. |
-| `command_bluetooth` | Turn bluetooth on or off. |
+| `command_bluetooth` | Turn bluetooth on or off. (Supported on Android 12 or older.) |
 | `command_ble_transmitter` | Turn BLE beacon transmitter on or off. |
 | `command_beacon_monitor` | Turn Beacon Monitoring on or off. |
 | `command_broadcast_intent` | Send a broadcast intent to another app, [see below](#broadcast-intent) for how it works and whats required. |
